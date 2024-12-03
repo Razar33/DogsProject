@@ -12,3 +12,4 @@ C:\Users\Immanuel Kant 2\Desktop\DogsApp\DogsApp.Infrastructure\obj\Debug\net6.0
 C:\Users\Immanuel Kant 2\Desktop\DogsApp\DogsApp.Infrastructure\obj\Debug\net6.0\DogsApp.Infrastructure.pdb
 C:\Users\Immanuel Kant 2\Desktop\DogsApp\DogsApp.Infrastructure\obj\Debug\net6.0\DogsApp.Infrastructure.genruntimeconfig.cache
 C:\Users\Immanuel Kant 2\Desktop\DogsApp\DogsApp.Infrastructure\obj\Debug\net6.0\ref\DogsApp.Infrastructure.dll
+C:\Users\Immanuel Kant 2\Desktop\DogsApp\DogsApp.Infrastructure\obj\Debug\net6.0\DogsApp.Infrastructure.sourcelink.json
